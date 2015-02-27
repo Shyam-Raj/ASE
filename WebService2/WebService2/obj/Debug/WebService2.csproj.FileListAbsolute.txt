@@ -1,0 +1,4 @@
+\\kc.umkc.edu\kc-users\home\s\sky6c\my documents\visual studio 2010\Projects\WebService2\WebService2\bin\WebService2.dll
+\\kc.umkc.edu\kc-users\home\s\sky6c\my documents\visual studio 2010\Projects\WebService2\WebService2\bin\WebService2.pdb
+\\kc.umkc.edu\kc-users\home\s\sky6c\my documents\visual studio 2010\Projects\WebService2\WebService2\obj\Debug\WebService2.dll
+\\kc.umkc.edu\kc-users\home\s\sky6c\my documents\visual studio 2010\Projects\WebService2\WebService2\obj\Debug\WebService2.pdb
